@@ -23,4 +23,4 @@
 
 - Привязать frontend к backend. Для тех, кто готов к повышенной сложности.
 
-
+Demo https://riva-sm.github.io/Trello-clone/
